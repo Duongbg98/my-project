@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//src/entity/Resource.java=UTF-8
+encoding//src/gui/MainView.java=UTF-8
+encoding//src/gui/risk/ButtonNode.java=UTF-8
+encoding//src/gui/risk/ProbabilityTable.java=UTF-8
+encoding//src/gui/risk/RiskFrame.java=UTF-8
+encoding//src/gui/risk/RiskPanel.java=UTF-8
+encoding//src/gui/schedule/ButtonTask.java=UTF-8
+encoding//src/gui/schedule/FrameAgile.java=UTF-8
+encoding//src/gui/schedule/InforResource.java=UTF-8
+encoding//src/gui/schedule/Panel.java=UTF-8
+encoding//src/model/AlgorithmScheduling.java=UTF-8
+encoding//src/model/BayesNet.java=UTF-8
+encoding//src/model/RisksNet.java=UTF-8
+encoding//src/util/FileManage.java=UTF-8
+encoding/<project>=UTF-8
